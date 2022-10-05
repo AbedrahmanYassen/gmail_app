@@ -1,16 +1,4 @@
 # gmail_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dumb UI I have made to revise Flutter, and to warm up.
+![gmail](https://user-images.githubusercontent.com/78448350/194134992-542f7ed4-5798-4eec-b62a-fb38c3dd50a2.PNG)
